@@ -1,0 +1,13 @@
+#intro {
+    padding: 0;
+    margin: 0;
+}
+.navlink {
+    padding: 0;
+    margin: 0;
+}
+
+.navlink a {
+    text-decoration: none;
+    color: red;
+}
